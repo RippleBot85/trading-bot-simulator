@@ -1,6 +1,1 @@
-pandas
-numpy
-ccxt
-ta
-schedule
-requests
+
